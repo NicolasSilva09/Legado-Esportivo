@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 :root{
     ---colorfont1: #1c2960;
     ---colorfont2: #728cff;
